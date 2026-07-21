@@ -125,6 +125,181 @@
         <mxCell id="AcUi6nx6hBdICLV07UQd-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiHCO₃ 탄산수소 리튬" vertex="1">
           <mxGeometry height="30" width="120" x="-218" y="-100" as="geometry" />
         </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-45" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-44" value="60~80℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-52" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-51" value="HCl 투입 후&lt;br&gt;냉각 분별 결정,&lt;br&gt;에탄올에 용해로&lt;br&gt;용해도 차이 분리">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₂B₄O₇·10H₂O 붕사" vertex="1">
+          <mxGeometry height="30" width="120" x="-218" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-47" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-46" value="300~400℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₂B₄O₇·5H₂O 붕사 오수화물" vertex="1">
+          <mxGeometry height="30" width="160" x="-238" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-49" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-48" value="750~800℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₂B₄O₇ 무수 붕사" vertex="1">
+          <mxGeometry height="30" width="110" x="-213" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₂B₄O₇ 붕사 유리" vertex="1">
+          <mxGeometry height="30" width="110" x="-213" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-56" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" value="">
+          <mxGeometry relative="1" x="0.2187" y="-68" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="154.0689655172414" y="733.0689655172414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-64" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="AcUi6nx6hBdICLV07UQd-63" value="100~130℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-75" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.76" y="648.01" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-83" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-82" value="산 촉매 하에서&lt;div&gt;무수 에탄올 혼합 후&lt;/div&gt;&lt;div&gt;60~70℃ 가열&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.0249" y="6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-86" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-85" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;산 촉매 하에서&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;무수 메탄올 혼합 후&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;60~70℃ 가열&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.1252" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="H₃BO₃ 오쏘붕산" vertex="1">
+          <mxGeometry height="30" width="90" x="10" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-58" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="153.96296861436622" y="733.3518998887803" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="NaBO₂ 메타붕산 나트륨" vertex="1">
+          <mxGeometry height="30" width="130" x="208" y="688" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-59" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="153.4074130588108" y="732.7963443332249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₃BO₃ 오쏘붕산 나트륨" vertex="1">
+          <mxGeometry height="30" width="130" x="208" y="751" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-62" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="AcUi6nx6hBdICLV07UQd-60" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="208" y="766" as="sourcePoint" />
+            <mxPoint x="153.4074130588108" y="732.7963443332249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NaOH 투입 후&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;중화 반응&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;비율에 따라 변경&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="124" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-66" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-65" value="140~160℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="HBO₂ 메타붕산" vertex="1">
+          <mxGeometry height="30" width="90" x="10" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-68" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-67" value="300~450℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="H₂B₄O₇ 사붕산" vertex="1">
+          <mxGeometry height="30" width="90" x="10" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-70" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-69" value="750~800℃ 가열">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B₂O₃ 산화 붕소" vertex="1">
+          <mxGeometry height="30" width="90" x="10" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B₂O₃ 붕산염 유리" vertex="1">
+          <mxGeometry height="30" width="100" x="5" y="1074" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-77" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.984107607886926" y="678.9364740280878" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="K₃BO₃ 오쏘붕산 칼륨" vertex="1">
+          <mxGeometry height="30" width="120" x="141" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-78" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="54.66663760230654" y="678.6190185546875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="KBO₂ 메타붕산 칼륨" vertex="1">
+          <mxGeometry height="30" width="110" x="-137" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="K₂B₄O₇ 사붕산 칼륨" vertex="1">
+          <mxGeometry height="30" width="110" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;KOH 투입 후&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;중화 반응&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;비율에 따라 변경&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="29" y="666" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B(C₂H₅O)₃ 붕산 트리에틸" vertex="1">
+          <mxGeometry height="30" width="140" x="203" y="807" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B(CH₃O)₃ 붕산 트리메틸" vertex="1">
+          <mxGeometry height="30" width="130" x="208" y="896" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-97" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="AcUi6nx6hBdICLV07UQd-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-703" y="787.8" />
+              <mxPoint x="-570.04" y="787.8" />
+              <mxPoint x="-570.04" y="871" />
+              <mxPoint x="-707.96" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-88" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₂B₄O₇·10H₂O 붕사" vertex="1">
+          <mxGeometry height="30" width="120" x="-763" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-100" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="AcUi6nx6hBdICLV07UQd-95" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="NaBO₂ 메타붕산 나트륨" vertex="1">
+          <mxGeometry height="30" width="130" x="-618" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-99" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="AcUi6nx6hBdICLV07UQd-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-397.98" y="782.42" />
+              <mxPoint x="-537.28" y="782.42" />
+              <mxPoint x="-537.28" y="869.4" />
+              <mxPoint x="-397.98" y="869.4" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Na₃BO₃ 오쏘붕산 나트륨" vertex="1">
+          <mxGeometry height="30" width="130" x="-463" y="718" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="XB₄O₇ 사붕산 금속염" vertex="1">
+          <mxGeometry height="30" width="120" x="-768" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="X(BO₂)₂&amp;nbsp;메타붕산 금속염" vertex="1">
+          <mxGeometry height="30" width="130" x="-618" y="911" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="X₃(BO₃)₂&amp;nbsp;오쏘붕산 금속염" vertex="1">
+          <mxGeometry height="30" width="140" x="-468" y="909" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-104" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="AcUi6nx6hBdICLV07UQd-102" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-553" y="748" as="sourcePoint" />
+            <mxPoint x="-553" y="911" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="금속염 투입 후&lt;div&gt;앙금 반응&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="-593" y="816" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
