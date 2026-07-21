@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="5QjBZDjAQWj_5qGgaRR9">
-    <mxGraphModel dx="1628" dy="949" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="1336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,6 +17,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-13" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="AcUi6nx6hBdICLV07UQd-12" value="MgSO₄ 혼합 후&lt;div&gt;앙금 반응&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-30" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-29" value="Na₂SiO₃ 혼합 후&lt;br&gt;펴 발라 말리기">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiCl 염화 리튬" vertex="1">
@@ -44,8 +47,33 @@
             <mxPoint x="-8" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-28" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-27" value="C₆H₈O₇ 혼합 후&lt;br&gt;중화 반응">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-32" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-31" value="H₂C₂O₄ 혼합 후&lt;br&gt;중화 반응">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-34" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-33" value="H₂B₄O₇ 혼합 후&lt;br&gt;냉각 분별 결정">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-36" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-35" value="H₃BO₃ 혼합 후&lt;br&gt;중화 반응">
+          <mxGeometry relative="1" x="-0.0628" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-38" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-37" value="Al 투입 후&lt;br&gt;금속-산 반응">
+          <mxGeometry relative="1" x="0.0032" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-40" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-39" value="KMnO₄ 혼합 후&lt;br&gt;냉각 분별 결정">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiOH 수산화 리튬" vertex="1">
           <mxGeometry height="30" width="100" x="-208" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-42" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-41" value="NaHCO₃ 혼합 후&lt;br&gt;냉각 분별 결정">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Li₂SO₄ 황산 리튬" vertex="1">
           <mxGeometry height="30" width="100" x="-208" y="-24" as="geometry" />
@@ -53,7 +81,7 @@
         <mxCell id="AcUi6nx6hBdICLV07UQd-18" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-17" value="90~100℃ 가열">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Li₂O₂·H₂O 과산화 리튬 수화물" vertex="1">
+        <mxCell id="AcUi6nx6hBdICLV07UQd-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Li₂O₂·H₂O 과산화 리튬 수화물" vertex="1">
           <mxGeometry height="30" width="160" x="-238" y="124" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-21" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-20">
@@ -71,7 +99,31 @@
           <mxGeometry height="30" width="90" x="-203" y="270" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="CH₃COOLi 아세트산 리튬" vertex="1">
-          <mxGeometry height="30" width="140" x="-485" y="42" as="geometry" />
+          <mxGeometry height="30" width="140" x="-468" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Li₃C₆H₅O₇ 구연산 리튬" vertex="1">
+          <mxGeometry height="30" width="130" x="-698" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Li₂SiO₃ 규산 리튬" vertex="1">
+          <mxGeometry height="30" width="100" x="5" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="Li₂C₂O₄ 옥살산 리튬" vertex="1">
+          <mxGeometry height="30" width="110" x="-688" y="-24" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="Li₂B₄O₇ 사붕산 리튬" vertex="1">
+          <mxGeometry height="30" width="110" x="213" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiBO₂ 메타붕산 리튬" vertex="1">
+          <mxGeometry height="30" width="110" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" value="LiAlO₂ 메타알루민산 리튬" vertex="1">
+          <mxGeometry height="30" width="140" x="-468" y="-24" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiMnO₄ 과망가니즈산 리튬" vertex="1">
+          <mxGeometry height="30" width="140" x="-468" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="AcUi6nx6hBdICLV07UQd-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="LiHCO₃ 탄산수소 리튬" vertex="1">
+          <mxGeometry height="30" width="120" x="-218" y="-100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
