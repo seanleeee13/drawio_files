@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="페이지-1" id="5QjBZDjAQWj_5qGgaRR9">
-    <mxGraphModel dx="1844" dy="1092" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,18 +158,13 @@
         <mxCell id="AcUi6nx6hBdICLV07UQd-64" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="AcUi6nx6hBdICLV07UQd-63" value="100~130℃ 가열">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-75" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49.76" y="385.01" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-83" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-82" value="산 촉매 하에서&lt;div&gt;무수 에탄올 혼합 후&lt;/div&gt;&lt;div&gt;60~70℃ 가열&lt;/div&gt;">
+        <mxCell id="AcUi6nx6hBdICLV07UQd-83" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="AcUi6nx6hBdICLV07UQd-82" value="산 촉매 하에서&lt;div&gt;무수 에탄올 혼합 후&lt;/div&gt;&lt;div&gt;60~70℃ 가열&lt;/div&gt;">
           <mxGeometry relative="1" x="-0.0249" y="6" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-86" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-85" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;산 촉매 하에서&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;무수 메탄올 혼합 후&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;60~70℃ 가열&lt;/div&gt;">
-          <mxGeometry relative="1" x="0.1252" y="-4" as="geometry">
+        <mxCell id="AcUi6nx6hBdICLV07UQd-86" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-85" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;산 촉매 하에서&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;무수 메탄올 혼합 후&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;60~70℃ 가열&lt;/div&gt;">
+          <mxGeometry relative="1" x="0.0399" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -198,7 +193,7 @@
             <mxPoint x="148.4074130588108" y="469.79634433322485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NaOH 투입 후&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;중화 반응&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;비율에 따라 변경&lt;/span&gt;" vertex="1">
+        <mxCell id="AcUi6nx6hBdICLV07UQd-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;NaOH 투입 후&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;중화 반응&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;비율에 따라 종류 결정&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="119" y="455" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-66" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AcUi6nx6hBdICLV07UQd-65" value="140~160℃ 가열">
@@ -222,33 +217,11 @@
         <mxCell id="AcUi6nx6hBdICLV07UQd-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B₂O₃ 붕산염 유리" vertex="1">
           <mxGeometry height="30" width="100" y="811" as="geometry" />
         </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-77" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49.984107607886926" y="415.9364740280878" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="K₃BO₃ 오쏘붕산 칼륨" vertex="1">
-          <mxGeometry height="30" width="120" x="136" y="347" as="geometry" />
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-78" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49.66663760230654" y="415.6190185546875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="KBO₂ 메타붕산 칼륨" vertex="1">
-          <mxGeometry height="30" width="110" x="-142" y="347" as="geometry" />
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="K₂B₄O₇ 사붕산 칼륨" vertex="1">
-          <mxGeometry height="30" width="110" x="-5" y="347" as="geometry" />
-        </mxCell>
-        <mxCell id="AcUi6nx6hBdICLV07UQd-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;KOH 투입 후&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;중화 반응&lt;/span&gt;&lt;br style=&quot;font-size: 11px; white-space: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;비율에 따라 변경&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="24" y="403" as="geometry" />
-        </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B(C₂H₅O)₃ 붕산 트리에틸" vertex="1">
-          <mxGeometry height="30" width="140" x="198" y="544" as="geometry" />
+          <mxGeometry height="30" width="140" x="-20" y="355" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="B(CH₃O)₃ 붕산 트리메틸" vertex="1">
-          <mxGeometry height="30" width="130" x="203" y="633" as="geometry" />
+          <mxGeometry height="30" width="130" x="-228" y="355" as="geometry" />
         </mxCell>
         <mxCell id="AcUi6nx6hBdICLV07UQd-97" edge="1" parent="1" source="AcUi6nx6hBdICLV07UQd-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="AcUi6nx6hBdICLV07UQd-94">
           <mxGeometry relative="1" as="geometry">
